@@ -25,36 +25,31 @@ By making the app as user-unfriendly as possible, we offer a better and healthie
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
+- HTML, CSS, Javascript
+- Node.js, Express.js
+- Socket.io
+  
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
+npm start
 
 ### Project Documentation
 For Software:
+Node.js- https://nodejs.org/en/docs
+Express.js- http://expressjs.com/
+Socket.io- https://socket.io/docs/v4/
 
 # Screenshots (Add at least 3)
-![Untitled](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
-](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Prompting the user to enter name](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![](https://github.com/user-attachments/assets/b14c9eff-2df0-4787-a0db-8dd3fadad1cd)
+Message from user 2 is displayed as some gibberish
+
+![Untitled-1](https://github.com/user-attachments/assets/9a8f9d50-dec2-4e66-8eaf-e5bb7dc30b97)
+(Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
