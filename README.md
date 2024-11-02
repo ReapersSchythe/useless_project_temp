@@ -30,16 +30,16 @@ For Software:
 - Socket.io
   
 # Installation
-cd useless-projects
-git clone "https://github.com/ReapersSchythe/useless_project_temp.git"
-npm install
+-cd useless-projects
+-git clone "https://github.com/ReapersSchythe/useless_project_temp.git"
+-npm install
 
 # Run
 npm start
 
 ### Project Documentation
 For Software:
-Node.js- https://nodejs.org/en/docs
+Node.js- https://nodejs.org/en/docs,
 Express.js- http://expressjs.com/
 Socket.io- https://socket.io/docs/v4/
 
