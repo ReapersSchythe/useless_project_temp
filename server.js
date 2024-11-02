@@ -5,7 +5,17 @@ const { Server } = require("socket.io");
 
 const app = express();
 const server = http.createServer(app);
-const io = new Server(server);
+// const io = new Server(server);
+
+// make it work with serverless
+
+const io = new Server(server, {
+	cors: {
+		origin: "*",
+		methods: ["GET", "POST"],
+	},
+	transports: ["websocket", "polling"],
+});
 
 app.use(express.static("public"));
 
@@ -39,16 +49,19 @@ io.on("connection", function (socket) {
 	/*socket.on("ligma", function () {
 		console.log("ligma");
 	});*/
-	let str="";
+	let r=Math.random();
+	let str = "";
 	socket.on("sendMessage", function (data) {
-		rand =Math.floor(Math.random() * rooms.length);
+		rand = Math.floor(Math.random() * rooms.length);
 		console.log(rand);
 		console.log(data);
+		if (r>.5){
+			for (let i=0;i<data.length;i++){
+			    str+=String.fromCharCode(data.charCodeAt(i)+130)
+			}
 		
-		for (let i=0;i<data.length;i++){
-			str+=String.fromCharCode(data.charCodeAt(i)+130)
 		}
-		data=str;
+		data = str;
 		console.log(str);
 		io.sockets
 			.to(rooms[rand].name)
