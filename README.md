@@ -30,6 +30,8 @@ For Software:
 - Socket.io
   
 # Installation
+cd useless-projects
+git clone "https://github.com/ReapersSchythe/useless_project_temp.git"
 npm install
 
 # Run
@@ -51,19 +53,10 @@ Message from user 2 is displayed as some gibberish
 ![Untitled-1](https://github.com/user-attachments/assets/9a8f9d50-dec2-4e66-8eaf-e5bb7dc30b97)
 User is asked to play a snake game to access the chats
 
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Bharath R: Code
+- Sean Mathew: Code
+- Philip Boby: Code
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
