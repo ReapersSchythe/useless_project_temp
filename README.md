@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Useless Social Media App
+#  A Useless Social Media Website
 
 
 ## Basic Details
@@ -12,14 +12,15 @@
 - Member 2: Sean Mathew - College of Engineering, Trivandrum
 - Member 3: Philip Boby - College of Engineering, Trivandrum
 
-### Project Description
+# Project Description
+This is a project that aims to make the user experience as miserable as possible, from sending the messages to the wrong person to having to play games to unlock certain features of the site
 
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### Lack of Grass touching - A major problem among today's youth
+This project helps everyone who is addicted to social media, by making them rethink their life choices and reflect on all the grass touching they are missing out on.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The incredible solution-
+By making the app as user-unfriendly as possible, we offer a better and healthier alternative to other social media that thrive by consuming your valuable time.
 
 ## Technical Details
 ### Technologies/Components Used
