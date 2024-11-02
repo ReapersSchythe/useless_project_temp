@@ -41,39 +41,16 @@ Node.js- https://nodejs.org/en/docs
 Express.js- http://expressjs.com/
 Socket.io- https://socket.io/docs/v4/
 
-# Screenshots (Add at least 3)
-![Prompting the user to enter name](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
-
+# Screenshots 
+![](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
+Prompting the user to enter name
 
 ![](https://github.com/user-attachments/assets/b14c9eff-2df0-4787-a0db-8dd3fadad1cd)
 Message from user 2 is displayed as some gibberish
 
 ![Untitled-1](https://github.com/user-attachments/assets/9a8f9d50-dec2-4e66-8eaf-e5bb7dc30b97)
-(Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+User is asked to play a snake game to access the chats
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
