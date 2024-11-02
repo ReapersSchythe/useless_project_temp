@@ -40,9 +40,17 @@ npm start
 
 ### Project Documentation
 For Software:
-• Node.js- https://nodejs.org/en/docs
-• Express.js- http://expressjs.com/
-• Socket.io- https://socket.io/docs/v4/
+- Node.js- https://nodejs.org/en/docs
+- Express.js- http://expressjs.com/
+- Socket.io
+- Socket.io- https://socket.io/docs/v4/
+  
+
+
+
+• 
+• 
+• 
 
 # Screenshots 
 ![](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
