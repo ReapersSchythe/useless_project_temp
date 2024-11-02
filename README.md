@@ -31,10 +31,10 @@ For Software:
 - VSCode, GitHub
   
 # Installation
--cd useless-projects
--git clone "https://github.com/ReapersSchythe/useless_project_temp.git"
--npm install
-
+- cd useless-projects
+- git clone "https://github.com/ReapersSchythe/useless_project_temp.git"
+- npm install
+  
 # Run
 npm start
 
@@ -42,15 +42,7 @@ npm start
 For Software:
 - Node.js- https://nodejs.org/en/docs
 - Express.js- http://expressjs.com/
-- Socket.io
 - Socket.io- https://socket.io/docs/v4/
-  
-
-
-
-• 
-• 
-• 
 
 # Screenshots 
 ![](https://github.com/user-attachments/assets/843cbdba-e6e0-46e6-8e86-883dff268e08)
